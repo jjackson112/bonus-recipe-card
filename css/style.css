@@ -23,3 +23,15 @@ h1 {
     text-transform: uppercase;
     margin: 0;
 }
+
+header img {
+    margin-right: 15px;
+}
+
+/* Main styles */
+/* Center the content by making the browser automatically calculate the left and right margins */
+
+main {
+    width: 1000px;
+    margin: 0 auto; 
+}
