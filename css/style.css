@@ -31,6 +31,14 @@ header img {
 /* Main styles */
 /* Center the content by making the browser automatically calculate the left and right margins */
 
+.recipe h2 {
+    color: #F16059;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 28px;
+    margin-top: 0;
+}
+
 main {
     width: 1000px;
     margin: 0 auto; 
