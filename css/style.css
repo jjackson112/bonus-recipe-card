@@ -109,3 +109,6 @@ main {
 	display: inline-block;
 }
 
+.time-details strong {
+	font-family: 'Montserrat', sans-serif;
+}
