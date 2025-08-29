@@ -105,4 +105,7 @@ main {
     height: auto;
 }
 
+.time-details {
+	display: inline-block;
+}
 
