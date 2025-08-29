@@ -98,3 +98,11 @@ main {
     border-left: 1px solid grey;
     border-right: 1px solid grey;
 }
+
+/* automatically adjust width of nested images for browser */
+.time img {
+    width: 15px;
+    height: auto;
+}
+
+
