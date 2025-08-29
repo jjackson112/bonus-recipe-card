@@ -56,3 +56,18 @@ main {
     background: #ffffff;
     box-sizing: border-box;
 }
+
+#cookies .image {
+    background-size: cover;
+    background: url(../img/gluten-free-sugar-cookies.jpg)
+}
+
+#pesto .image {
+    background-size: cover;
+    background: url(../img/nut-free-pesto.jpg)
+}
+
+#salad .image {
+    background-size: cover;
+    background: url(../img/watermelon-salad.jpg)
+}
