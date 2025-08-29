@@ -112,3 +112,18 @@ main {
 .time-details strong {
 	font-family: 'Montserrat', sans-serif;
 }
+
+.columns {
+    overflow: auto;
+}
+
+.directions {
+    float: left;
+    width: 240px;
+}
+
+.ingredients {
+    float: left;
+    width: 205px;
+    margin-right: 15px;
+}
